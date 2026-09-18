@@ -65,7 +65,7 @@ Where possible, the event will include a communications professional with experi
 
 ## 6. Organiser / background
 
-The initiative is being developed by **[Your Name]**, a co-founder of **Brand Moran**, a Kenyan technology company working at the intersection of AI, consumer intelligence, marketing and communications.
+The initiative is being developed by **Kelvin**, a co-founder and CTO of **Brand Moran**, a Kenyan technology company working at the intersection of AI, consumer intelligence, marketing and communications.
 
 Through Brand Moran, I have developed relationships with marketing, communications and research professionals in Kenya and have experience working with professionals who are increasingly incorporating AI into their work.
 
